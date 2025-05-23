@@ -1,0 +1,31 @@
+Linear regression – Performance and Innovation
+==================================================
+
+
+(1) Reported Monthly Revenue
+------------------------------
+Buyer Dependency: -0.31***
+                (1.65)
+R-squared: 0.6848
+Adjusted R-squared: 0.1333
+Observations: 12
+
+(2) Reported Monthly Profits
+------------------------------
+Buyer Dependency: -0.31***
+                (1.65)
+R-squared: 0.6848
+Adjusted R-squared: 0.1333
+Observations: 12
+
+(3) Product Category Innovation
+------------------------------
+Buyer Dependency: -0.67**
+                (1.09)
+R-squared: 0.8632
+Adjusted R-squared: 0.6237
+Observations: 12
+
+Control Variables:
+General individual-specific factors: yes
+Business specific factors: yes
